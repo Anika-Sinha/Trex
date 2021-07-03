@@ -118,6 +118,7 @@ function draw() {
     }
 
   }
+  camera.position.x=trex.x;
   
   
   drawSprites();
